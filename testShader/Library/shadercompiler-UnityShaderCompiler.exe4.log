@@ -1,0 +1,45 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2018.2.0b2/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=5188 outsize=5385 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9421 outsize=8881 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=15322 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=15322 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=15322 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=15322 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=15322 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=15322 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=15322 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=15322 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=15322 outsize=5101 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15322 outsize=5605 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15322 outsize=6489 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15322 outsize=8985 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15322 outsize=9965 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15322 outsize=8761 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=15322 outsize=11133 ok=1
